@@ -1,2 +1,2 @@
 # my-first-repo
-Practice report for Git
+Practice repo for Git
